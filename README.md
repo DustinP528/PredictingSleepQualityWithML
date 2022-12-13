@@ -6,6 +6,6 @@ This repository contains a notebook and resources for the paper "Predicting Slee
 
 ## General Setup
 
-All required packages and versions can be found in the first few cell within the provided notebook
+All required packages and versions can be found in the first few cell within the provided notebook `872_Project_Sleep_Quality.ipynb`
 
 
