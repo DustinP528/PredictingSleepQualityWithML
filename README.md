@@ -19,4 +19,4 @@ All required packages and versions can be found in the first few cell within the
 
 Dataset: Rossi, A., Da Pozzo, E., Menicagli, D., Tremolanti, C., Priami, C., Sirbu, A., Clifton, D., Martini, C., & Morelli, D. (2020). Multilevel Monitoring of Activity and Sleep in Healthy People (version 1.0.0). PhysioNet. https://doi.org/10.13026/cerq-fc86.
 
-
+The dataset from the citation above is included in the folder `DataPaper`. This data can also be obtained by visitng https://doi.org/10.13026/cerq-fc86 and downloding the zip file at the bottom of the page. 
