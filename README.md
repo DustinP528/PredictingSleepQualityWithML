@@ -2,7 +2,7 @@
 
 ---
 
-This is the final project work conducted for the Queens University ELEC 872 course Artifical Intelligence & Interactive Systems. This repository contains the project paper `ELEC872_Project.pdf` which includes a detailed summary of the project work. The goal of the project was to .............
+This is the final project work conducted for the Queens University ELEC 872 course Artifical Intelligence & Interactive Systems. This repository contains the project paper `ELEC872_Project.pdf` which includes a detailed summary of the project work.
 
 
 The Python Notebook provided in this repository contains all experiments, data preprocessing, and data visulaizaiton, included within the paper "Predicting Sleep Quality From Daily Activity Logs Using Machine Learning".
